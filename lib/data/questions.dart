@@ -3,8 +3,8 @@ import 'package:quiz_updated/models/quiz_question.dart';
 List<QuizQuestion> questions = [
   QuizQuestion(
     'What are the main building blocks of Flutter UIs?', [
-      'Widgets',
       'Components',
+      'Widgets',
       'Blocks',
       'Functions',
     ],
