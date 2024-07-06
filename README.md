@@ -2,7 +2,7 @@
 
 > Updated Flutter Quiz app project.
 
-![Quiz](./screen.png)
+<img src="screen.png" alt="screen" style="width:200px; margin-left: 50px" />
 
 ## Getting Started
 ```bash
