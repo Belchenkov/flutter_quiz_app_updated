@@ -2,7 +2,17 @@
 
 > Updated Flutter Quiz app project.
 
+![Quiz](./screen.png)
+
 ## Getting Started
+```bash
+    git clone 
+```
+
+```bash
+    flutter run
+```
+
 
 This project is a starting point for a Flutter application.
 
